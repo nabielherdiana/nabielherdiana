@@ -1,29 +1,36 @@
 # Hi there, I'm Nabiel.
 
 <a href="https://github.com/nabielherdiana">
-  <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=4000&pause=1000&color=58A6FF&center=false&vCenter=true&width=500&lines=Frontend+Developer;UI%2FUX+Enthusiast;Crafting+seamless+web+experiences" />
+  <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=4000&pause=1000&color=58A6FF&center=false&vCenter=true&width=600&lines=Data+Science+Enthusiast;UI%2FUX+Designer;Tech+Entrepreneur;Neatly+Organized,+Nothing+Missed!" />
 </a>
 
-I am a **Frontend Developer** with a strong focus on building responsive, high-performance, and user-centric web applications. I specialize in bridging the gap between design and engineering to create robust UI architectures.
+I am a **Statistics undergraduate** and **tech entrepreneur** who loves bridging the gap between rigorous data analytics and visually stunning, highly intuitive user interfaces. Having built an e-commerce business from the ground up, I approach every code and dataset with a problem-solving mindset and a focus on real-world impact.
+
+My development philosophy is simple: **Everything must be neatly organized, perfectly responsive, and absolutely no details are missed.** Whether I'm building machine learning models, interactive dashboards, or designing web interfaces, I ensure the final product is both powerful on the back-end and beautiful on the front-end.
 
 ---
 
-### Tech Stack
+### Tech Stack & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <br/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <br/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 </p>
 
 ---
+
+### GitHub Analytics
 
 <p align="left">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nabielherdiana&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="170"/>
