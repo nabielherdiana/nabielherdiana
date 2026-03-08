@@ -33,8 +33,8 @@ My development philosophy is simple: **Everything must be neatly organized, perf
 ### GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nabielherdiana&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nabielherdiana&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nabielherdiana&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=ffffff&icon_color=58A6FF" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nabielherdiana&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=ffffff" alt="Top Languages" height="170"/>
 </p>
 
 ---
