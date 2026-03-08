@@ -1,10 +1,8 @@
-# Hi there, I'm Nabiel Alfallah Herdiana 👋
+# Hi there, I'm Nabiel.
 
 <a href="https://github.com/nabielherdiana">
   <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=4000&pause=1000&color=58A6FF&center=false&vCenter=true&width=500&lines=Frontend+Developer;UI%2FUX+Enthusiast;Crafting+seamless+web+experiences" />
 </a>
-
-*"The outside world is so vast, which is why I want to explore it."*
 
 I am a **Frontend Developer** with a strong focus on building responsive, high-performance, and user-centric web applications. I specialize in bridging the gap between design and engineering to create robust UI architectures.
 
