@@ -35,8 +35,8 @@ I am a **Frontend Developer** with a strong focus on building responsive, high-p
 ### Code & Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabielherdiana&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabielherdiana&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nabielherdiana&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nabielherdiana&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top Languages" height="170"/>
 </p>
 
 ---
