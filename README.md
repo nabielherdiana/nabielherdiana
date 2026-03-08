@@ -25,15 +25,6 @@ I am a **Frontend Developer** with a strong focus on building responsive, high-p
 
 ---
 
-### Recent Engineering Work
-
-- **Teman Nangor** — Leading the frontend architecture for an integrated student information hub in Jatinangor. Implementing complex UI interactions, including physics-based carousel animations, and ensuring a robust, responsive layout architecture.
-- **Portfolio Optimization** — Designing and deploying a highly compact, responsive personal portfolio focused on seamless cross-device user experience, accessibility, and fast load times.
-
----
-
-### Code & Activity
-
 <p align="left">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nabielherdiana&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nabielherdiana&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top Languages" height="170"/>
