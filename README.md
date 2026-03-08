@@ -1,52 +1,33 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Nabiel!%20👋&fontSize=50&fontAlignY=38&desc=The%20outside%20world%20is%20so%20vast,%20which%20is%20why%20I%20want%20to%20explore%20it.&descAlignY=58&descAlign=50" />
-</div>
+# Nabiel Herdiana
 
-<h3 align="center">🚀 Frontend Developer | UI/UX Enthusiast</h3>
+> *"the outside world is so vast, which's why i wanna explore it."*
 
-<p align="center">
-  <a href="https://github.com/nabielherdiana">
-    <img src="https://komarev.com/ghpvc/?username=nabielherdiana&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
-  </a>
-</p>
+Frontend Developer with a strong focus on building responsive, performant, and user-centric web applications. Experienced in bridging the gap between design and engineering to create seamless UI/UX experiences.
 
----
+## Technical Stack
 
-### 👨‍💻 Tentang Saya
+- **Core:** JavaScript (ES6+), TypeScript, HTML5, CSS3
+- **Frameworks & Libraries:** React.js, Next.js, Tailwind CSS
+- **Tools & Platforms:** Git, GitHub, Figma, Vercel
 
-- 🔭 Saat ini sedang mengembangkan **Teman Nangor**, sebuah *information hub* terintegrasi untuk mahasiswa Jatinangor.
-- 🌱 Sedang memperdalam **Next.js, UI/UX Design, dan Advanced Web Development**.
-- 💡 Sangat tertarik dengan pembuatan tampilan web yang responsif, modern, dan memberikan pengalaman (UX) yang *seamless*.
-- 📫 Cara menghubungi saya: **[Tulis Email / Link ke LinkedIn kamu di sini]**
+## Recent Engineering Work
 
----
+- **Teman Nangor :** Leading the frontend architecture for an integrated student information hub in Jatinangor. Implementing complex UI interactions, including physics-based carousel animations, and ensuring a robust, responsive layout architecture.
+- **Portfolio Optimization :** Designing and deploying a highly compact, responsive personal portfolio focused on seamless cross-device user experience and fast load times.
 
-### 🛠️ Tech Stack & Tools
+## GitHub Activity
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <!-- Kamu bisa menambah atau menghapus icon di bawah ini sesuai bahasamu -->
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,git,github,vscode,figma,vercel" alt="Nabiel's Tech Stack" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabielherdiana&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Nabiel's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabielherdiana&theme=radium&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Nabiel's Streak" width="48%" />
-</div>
-
+<a href="https://github.com/nabielherdiana">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=nabielherdiana&show_icons=true&hide_border=true&theme=transparent&title_color=000000&text_color=333333&icon_color=333333" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/nabielherdiana">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabielherdiana&layout=compact&hide_border=true&theme=transparent&title_color=000000&text_color=333333" alt="Top Languages" />
+</a>
+<br clear="both"/>
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabielherdiana&layout=compact&theme=radium&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" width="50%" />
-</div>
+## Contact & Links
 
----
-
-<div align="center">
-  <i>"the outside world is so vast, which's why i wanna explore it."</i>
-</div>
+- **LinkedIn:** [linkedin.com/in/nabielherdiana](https://linkedin.com/in/nabielherdiana) <!-- Ganti dengan link aslimu -->
+- **Email:** [email-kamu@domain.com](mailto:email-kamu@domain.com) <!-- Ganti dengan emailmu -->
+- **Portfolio:** [nabielherdiana.com](https://nabielherdiana.com) <!-- Ganti dengan link webmu -->
